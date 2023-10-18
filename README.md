@@ -1,4 +1,3 @@
-# RoadAccidentSeverity_ML_Model
 
-
-This machine learning model is designed to predict the severity of road accidents based on various factors such as education, sex, age, type of vehicle, time, road alignment, and lanes or medians. The model uses encoding techniques, hyperparameter tuning, and baseline modeling to improve its accuracy, and also includes upsampling to address any class imbalance in the dataset.
+Classification-  Road Traffic Accident Severity
+The degree of severity in road traffic accidents hinges on a multitude of factors encompassing the characteristics of the involved vehicles, drivers, casualties, and the prevailing environmental conditions. The primary objective of this project is to construct predictive models that leverage these factors to categorize accident severity into three classes: minor injury, significant injury, or fatal injury. The dataset employed for this project was curated from manual records of road traffic incidents spanning the years 2017 to 2020, sourced from the police departments within Addis Ababa sub-city. The data encoding process has been undertaken with utmost care to exclude any sensitive information. The final dataset comprises records for 12,316 accidents, each featuring 32 distinct attributes
